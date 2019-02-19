@@ -2,9 +2,10 @@
 
 # Amethyst
 
-[![Build Status][s1]][tc] [![Crates.io][s2]][ci] [![docs page][docs-badge]][docs] [![MIT/Apache][s3]][li] [![Join us on Discord][s4]][di] ![Lines of Code][s6]
+[![Build Status][s1a]][tc] [![AppVeyor Build Status][s1b]][app] [![Crates.io][s2]][ci] [![docs page][docs-badge]][docs] [![MIT/Apache][s3]][li] [![Join us on Discord][s4]][di] ![Lines of Code][s6]
 
-[s1]: https://travis-ci.org/amethyst/amethyst.svg?branch=master
+[s1a]: https://travis-ci.org/amethyst/amethyst.svg?branch=master
+[s1b]: https://ci.appveyor.com/api/projects/status/github/atroche/rust-headless-chrome?branch=master&svg=true
 [s2]: https://img.shields.io/crates/v/amethyst.svg
 [docs-badge]: https://img.shields.io/badge/docs-website-blue.svg
 [docs]: https://www.amethyst.rs/doc/
@@ -12,6 +13,7 @@
 [s4]: https://img.shields.io/discord/425678876929163284.svg?logo=discord
 [s6]: https://tokei.rs/b1/github/amethyst/amethyst?category=code
 [tc]: https://travis-ci.org/amethyst/amethyst/
+[app]: https://ci.appveyor.com/project/atroche/rust-headless-chrome
 [ci]: https://crates.io/crates/amethyst/
 [li]: COPYING
 [di]: https://discord.gg/amethyst
